@@ -6,6 +6,10 @@
 #### Pug
 - [Pug中文文档](https://pug.bootcss.com)
 
+#### 持续构建
+- Travis Ci
+- Jenkins
+
 
 
 
